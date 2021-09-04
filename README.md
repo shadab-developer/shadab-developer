@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @shadab-developer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-shadab-developer/shadab-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @shadab-developer (Shadab Ahmad)
+- 🌱 I’m currently learning Web Desigining and WordPress !
+- 📫 You can reach me by Whatsapp - +91 8825311088 !
+- 👤 Founder and Director of WebyRoot Private Limited
